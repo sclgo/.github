@@ -1,8 +1,8 @@
 ## Welcome to sclgo
 
-The `sclgo` organization maintains a collection of SQL components, tools, and drivers for Go. Check out the pinned repos!
+The `sclgo` organization maintains a collection of SQL components, tools, and drivers for Go. Check out the pinned repos.
 
-`sclgo` is maintained by [Marin Nozhchev](https://github.com/murfffi).
+`sclgo` is maintained by [Marin Nozhchev](https://github.com/murfffi). Contributions are welcome!
 
 <!--
 
